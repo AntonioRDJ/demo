@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "espaço branco coluna": "teste" },
-    { "id": 2, "title": "Post 2", "espaço branco coluna": "teste" },
-    { "id": 3, "title": "Post 3", "espaço branco coluna": "teste" }
+    { "id": 1, "title": "Post 1", "espaço branco coluna": "teste", "outra_prop": "teste" },
+    { "id": 2, "title": "Post 2", "espaço branco coluna": "teste", "outra_prop": "teste" },
+    { "id": 3, "title": "Post 3", "espaço branco coluna": "teste", "outra_prop": "teste" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
