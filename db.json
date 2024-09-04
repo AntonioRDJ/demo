@@ -14,5 +14,6 @@
   "teste_ad": [
     { "espaço branco coluna": 1, "body": "some comment", "postId": 1 },
     { "espaço branco coluna": 2, "body": "some comment", "postId": 1 }
-  ]
+  ],
+  "vazio": []
 }
