@@ -24,6 +24,6 @@
     { "id": 12, "ticket": "TT44", "grupo": "Nivel 1", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
     { "id": 13, "ticket": "TT45", "grupo": "Nivel 1", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
     { "id": 14, "ticket": "TT46", "grupo": "Nivel 2", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
-    { "id": 15, "ticket": "TT47", "grupo": "Nivel 2", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" },
+    { "id": 15, "ticket": "TT47", "grupo": "Nivel 2", "col_null": null, "col_whitespace": "", "col_whitespace_2": " ", "col_undefined_string": "undefined" }
   ]
 }
